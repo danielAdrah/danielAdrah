@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a passionate frontend developer<br>🌱i have been using flutter for 4 years<br>💬 Ask me about : danieladrah29@gmail.com<br>⚡ Mobile development > web development 
+🔭 I’m a passionate frontend developer<br>🌱i have been using flutter for 4 years<br>💬 Ask me about : danieladrah29@gmail.com<br>
 
 
 ## 🌐 Socials:
